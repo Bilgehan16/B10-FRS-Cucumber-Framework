@@ -27,3 +27,5 @@ Distributed VCS:	GitHub
 2. NO IDE related files
 3. index.html (Cucumber default html report) ONLY
 4. No commits to master branch after initial setup
+
+https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
