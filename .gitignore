@@ -1,3 +1,9 @@
 # this is comment line
+#we can use "#" to add comment line
+
 .idea/
 *.iml
+
+
+#this command is going to remove everything that is cached to be updated in your GitHub remote repository
+#git rm -r --cached .
